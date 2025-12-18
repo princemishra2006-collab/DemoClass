@@ -1,3 +1,3 @@
 # DemoClass
-I am just trying to create my first project .
-author - Prince Mishra
+I am just trying to create my first projec. 
+Author - Prince Mishra
